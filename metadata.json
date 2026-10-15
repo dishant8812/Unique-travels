@@ -1,0 +1,6 @@
+{
+  "name": "Unique Tours & Travels - Amalner",
+  "description": "Premium travel agency and car rental booking service based in Amalner, Maharashtra (425401). Outstation cabs, round trips, and pilgrimage tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
